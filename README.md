@@ -1,7 +1,6 @@
 # betaspeak
-TeamSpeak3 Website
-
-[![Discord](https://img.shields.io/discord/370909694056726528.svg?style=flat&logo=discord)](https://discord.gg/8wT3GEQ)
+TeamSpeak3 Website  
+[![Discord](https://discordapp.com/api/guilds/370909694056726528/widget.png?style=shield)](https://discord.gg/jqbq85J)
 
 #### website is fully working, just change config file and upload on your webserver
   
